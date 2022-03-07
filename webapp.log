@@ -1,1 +1,5 @@
 2022/03/06 17:23:47 main.go:15: test
+2022/03/06 21:17:39 dase.go:21: sql: unknown driver "sqlite3" (forgotten import?)
+2022/03/06 21:21:33 dase.go:21: sql: unknown driver "sqlite3" (forgotten import?)
+2022/03/06 21:36:50 dase.go:21: sql: unknown driver "sqlite3" (forgotten import?)
+2022/03/06 21:39:32 dase.go:21: sql: unknown driver "sqlite3" (forgotten import?)
